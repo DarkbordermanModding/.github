@@ -4,7 +4,7 @@ Mods created by myself.
 
 * Starbound
   * No constellation([source](https://github.com/DarkbordermanModding/Starbound-NoConstellation))
-* [Stellaris](https://github.com/DarkbordermanModding/Stellaris)
+* Stellaris
   * Terraform inhabitable planets([source](https://github.com/DarkbordermanModding/Stellaris-TerraformInhabitablePlanet))
   * Insults of Mayor Han([source](https://github.com/DarkbordermanModding/Stellaris-InsultOfMayorHan))
 
