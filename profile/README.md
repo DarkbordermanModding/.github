@@ -12,7 +12,8 @@ Mods created by myself.
 
 Other stuffs
 
-* 
+* Rimworld
+  * Traditional Chinese translation([source](https://github.com/DarkbordermanModding/RimWorld-ChineseTraditional))
 
 
 <!--
