@@ -8,7 +8,7 @@
   * Terraform inhabitable planets([source](https://github.com/DarkbordermanModding/Stellaris-TerraformInhabitablePlanet))
   * Insults of Mayor Han([source](https://github.com/DarkbordermanModding/Stellaris-InsultOfMayorHan))
 
-Other stuffs
+### Other stuffs
 
 * Rimworld
   * Traditional Chinese translation([source](https://github.com/DarkbordermanModding/RimWorld-ChineseTraditional))
