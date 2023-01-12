@@ -1,27 +1,50 @@
-# Index
+# Mods made by me
 
-Mods created by myself.
+* Elin
+  * Elin-MaterialConversionRecipes ([source](https://github.com/DarkbordermanModding/Elin-MaterialConversionRecipes))
+  * Elin-MoreLearnableSpells ([source](https://github.com/DarkbordermanModding/Elin-MoreLearnableSpells))
+
+* Starsector
+  * Starsector-AddStableLocations ([source](https://github.com/DarkbordermanModding/Starsector-AddStableLocations))
+  * Starsector-AddStations ([source](https://github.com/DarkbordermanModding/Starsector-AddStations))
+  * Starsector-CombatArena ([source](https://github.com/DarkbordermanModding/Starsector-CombatArena))
+  * Starsector-FighterMissiles ([source](https://github.com/DarkbordermanModding/Starsector-FighterMissiles))
+  * Starsector-GameConfig ([source](https://github.com/DarkbordermanModding/Starsector-GameConfig))
+  * Starsector-HullmodOverhaul ([source](https://github.com/DarkbordermanModding/Starsector-HullmodOverhaul))
+  * Starsector-HullRecoverable ([source](https://github.com/DarkbordermanModding/Starsector-HullRecoverable))
+  * Starsector-IndustryOverhaul ([source](https://github.com/DarkbordermanModding/Starsector-IndustryOverhaul))
+  * Starsector-InstantStorage ([source](https://github.com/DarkbordermanModding/Starsector-InstantStorage))
+  * Starsector-LowerLevelCurve ([source](https://github.com/DarkbordermanModding/Starsector-LowerLevelCurve))
+  * Starsector-SkillParameterized ([source](https://github.com/DarkbordermanModding/Starsector-SkillParameterized))
+  * Starsector-StarSystemDesign ([source](https://github.com/DarkbordermanModding/Starsector-StarSystemDesign))
 
 * Rimworld
-  * More genes([source](https://github.com/DarkbordermanModding/Rimworld-MoreGenes))
+  * RimWorld ([source](https://github.com/DarkbordermanModding/RimWorld))
+  * RimWorld-ChineseTraditional ([source](https://github.com/DarkbordermanModding/RimWorld-ChineseTraditional))
+  * Rimworld-MoreGenes ([source](https://github.com/DarkbordermanModding/Rimworld-MoreGenes))
+  * Rimworld-RemoveInjury ([source](https://github.com/DarkbordermanModding/Rimworld-RemoveInjury))
+  * Rimworld-RemoveTraits ([source](https://github.com/DarkbordermanModding/Rimworld-RemoveTraits))
+
+* ProjectZomboid
+  * ProjectZomboid-HousecleaningArchitect ([source](https://github.com/DarkbordermanModding/ProjectZomboid-HousecleaningArchitect))
+  * ProjectZomboid-ReCategory ([source](https://github.com/DarkbordermanModding/ProjectZomboid-ReCategory))
+
 * Starbound
-  * No constellation([source](https://github.com/DarkbordermanModding/Starbound-NoConstellation))
+  * Starbound-InstrumentCraft ([source](https://github.com/DarkbordermanModding/Starbound-InstrumentCraft))
+  * Starbound-NoConstellation ([source](https://github.com/DarkbordermanModding/Starbound-NoConstellation))
+  * Starbound-UniversalVendingMachine ([source](https://github.com/DarkbordermanModding/Starbound-UniversalVendingMachine))
+
+* SkyrimSpecialEdition
+  * SkyrimSpecialEdition-RecycleArmor ([source](https://github.com/DarkbordermanModding/SkyrimSpecialEdition-RecycleArmor))
+  * SkyrimSpecialEdition-RecycleMisc ([source](https://github.com/DarkbordermanModding/SkyrimSpecialEdition-RecycleMisc))
+
 * Stellaris
-  * Terraform inhabitable planets([source](https://github.com/DarkbordermanModding/Stellaris-TerraformInhabitablePlanet))
-  * Insults of Mayor Han([source](https://github.com/DarkbordermanModding/Stellaris-InsultOfMayorHan))
+  * Stellaris-ChineseTranslation ([source](https://github.com/DarkbordermanModding/Stellaris-ChineseTranslation))
+  * Stellaris-GesealtGaiaWorld ([source](https://github.com/DarkbordermanModding/Stellaris-GesealtGaiaWorld))
+  * Stellaris-InsultOfMayorHan ([source](https://github.com/DarkbordermanModding/Stellaris-InsultOfMayorHan))
+  * Stellaris-MoreRepeatableTechnologies ([source](https://github.com/DarkbordermanModding/Stellaris-MoreRepeatableTechnologies))
+  * Stellaris-MoreStarbaseConstructions ([source](https://github.com/DarkbordermanModding/Stellaris-MoreStarbaseConstructions))
+  * Stellaris-TerravoreHiveWorld ([source](https://github.com/DarkbordermanModding/Stellaris-TerravoreHiveWorld))
 
-Other stuffs
-
-* Rimworld
-  * Traditional Chinese translation([source](https://github.com/DarkbordermanModding/RimWorld-ChineseTraditional))
-
-
-<!--
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Others
+  * steam-workshop-uploader ([source](https://github.com/DarkbordermanModding/steam-workshop-uploader))
