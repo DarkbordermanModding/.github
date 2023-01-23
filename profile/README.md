@@ -8,6 +8,7 @@
   * Terraform inhabitable planets([source](https://github.com/DarkbordermanModding/Stellaris-TerraformInhabitablePlanet))
   * Insults of Mayor Han([source](https://github.com/DarkbordermanModding/Stellaris-InsultOfMayorHan))
   * More repeatable technologies([source](https://github.com/DarkbordermanModding/Stellaris-MoreRepeatableTechnologies))
+* Starsector
 
 ### Other stuffs
 
