@@ -12,6 +12,7 @@
 * Starsector
   * Combat arena([source](https://github.com/DarkbordermanModding/Starsector-CombatArena))
   * Upgrade conditions([source](https://github.com/DarkbordermanModding/Starsector-UpgradeConditions))
+  * Add stations([source](https://github.com/DarkbordermanModding/Starsector-AddStations))
 
 ## Other stuffs
 
