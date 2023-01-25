@@ -1,4 +1,4 @@
-### Mods created by myself.
+## Mods created by myself
 
 * Rimworld
   * More genes([source](https://github.com/DarkbordermanModding/Rimworld-MoreGenes))
@@ -10,9 +10,10 @@
   * Insults of Mayor Han([source](https://github.com/DarkbordermanModding/Stellaris-InsultOfMayorHan))
   * More repeatable technologies([source](https://github.com/DarkbordermanModding/Stellaris-MoreRepeatableTechnologies))
 * Starsector
-  * Combat Arena([source](https://github.com/DarkbordermanModding/Starsector-CombatArena))
+  * Combat arena([source](https://github.com/DarkbordermanModding/Starsector-CombatArena))
+  * Upgrade conditions([source](https://github.com/DarkbordermanModding/Starsector-UpgradeConditions))
 
-### Other stuffs
+## Other stuffs
 
 * Rimworld
   * Traditional Chinese translation([source](https://github.com/DarkbordermanModding/RimWorld-ChineseTraditional))
