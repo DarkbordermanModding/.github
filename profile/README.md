@@ -14,6 +14,7 @@
   * Upgrade conditions([source](https://github.com/DarkbordermanModding/Starsector-UpgradeConditions))
   * Add stations([source](https://github.com/DarkbordermanModding/Starsector-AddStations))
   * Hullmod overhaul([source](https://github.com/DarkbordermanModding/Starsector-HullmodOverhaul))
+  * Fighter missiles([source](https://github.com/DarkbordermanModding/Starsector-FighterMissiles))
 
 ## Other stuffs
 
