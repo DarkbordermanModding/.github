@@ -2,6 +2,7 @@
 
 * Rimworld
   * More genes([source](https://github.com/DarkbordermanModding/Rimworld-MoreGenes))
+  * Remove traits([source](https://github.com/DarkbordermanModding/Rimworld-RemoveTraits))
 * Starbound
   * No constellation([source](https://github.com/DarkbordermanModding/Starbound-NoConstellation))
 * Stellaris
