@@ -10,6 +10,7 @@
   * Insults of Mayor Han([source](https://github.com/DarkbordermanModding/Stellaris-InsultOfMayorHan))
   * More repeatable technologies([source](https://github.com/DarkbordermanModding/Stellaris-MoreRepeatableTechnologies))
 * Starsector
+  * Combat Arena([source](https://github.com/DarkbordermanModding/Starsector-CombatArena))
 
 ### Other stuffs
 
