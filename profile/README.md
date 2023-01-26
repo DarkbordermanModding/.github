@@ -4,6 +4,8 @@
   * More genes([source](https://github.com/DarkbordermanModding/Rimworld-MoreGenes))
   * Remove traits([source](https://github.com/DarkbordermanModding/Rimworld-RemoveTraits))
   * Remove injury([source](https://github.com/DarkbordermanModding/Rimworld-RemoveInjury))
+* Skyrim - Special Edition
+  * Recycle Armor([source](https://github.com/DarkbordermanModding/SkyrimSpecialEdition-RecycleArmor))
 * Starbound
   * No constellation([source](https://github.com/DarkbordermanModding/Starbound-NoConstellation))
 * Stellaris
