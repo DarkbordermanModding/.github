@@ -7,6 +7,7 @@
 * Skyrim - Special Edition
   * Recycle armor([source](https://github.com/DarkbordermanModding/SkyrimSpecialEdition-RecycleArmor))
 * Starbound
+  * Instrument Craft([source](https://github.com/DarkbordermanModding/Starbound-InstrumentCraft))
   * No constellation([source](https://github.com/DarkbordermanModding/Starbound-NoConstellation))
 * Starsector
   * Combat arena([source](https://github.com/DarkbordermanModding/Starsector-CombatArena))
