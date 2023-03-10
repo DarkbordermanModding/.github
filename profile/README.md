@@ -1,4 +1,4 @@
-## Mods created by myself
+## Mods made by me
 
 * Rimworld
   * More genes([source](https://github.com/DarkbordermanModding/Rimworld-MoreGenes))
