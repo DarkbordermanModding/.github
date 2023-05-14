@@ -24,3 +24,5 @@
 
 * Rimworld
   * Traditional Chinese translation([source](https://github.com/DarkbordermanModding/RimWorld-ChineseTraditional))
+* Steam
+  * Generic Steam workshop uploader([source](https://github.com/DarkbordermanModding/steam-workshop-uploader))
