@@ -1,0 +1,12 @@
+github:
+  description: Special repository for public profile.
+  enable_discussions: false
+  enable_issues: false
+  enable_projects: false
+  enable_wiki: false
+  homepage: https://github.com/DarkbordermanModding/
+  template: false
+  topics:
+    - readme
+    - profile
+    - portfolio
